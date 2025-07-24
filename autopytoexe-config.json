@@ -7,7 +7,7 @@
   },
   {
    "optionDest": "filenames",
-   "value": "C:/Users/U714088/Desktop/python-scripts/prod/Clock/clock.py"
+   "value": "clock.py"
   },
   {
    "optionDest": "onefile",
@@ -19,11 +19,11 @@
   },
   {
    "optionDest": "icon_file",
-   "value": "C:/Users/U714088/Desktop/python-scripts/prod/Clock/clock.ico"
+   "value": "clock.ico"
   },
   {
    "optionDest": "name",
-   "value": "BigClock"
+   "value": "pyclock"
   },
   {
    "optionDest": "clean_build",
