@@ -1,3 +1,7 @@
+# example-screenshot
+
+![Screenshot 1](screenshots/screenshot-01.jpg)
+
 # Create python env
 
 ```bash
