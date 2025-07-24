@@ -12,4 +12,4 @@ auto-py-to-exe -c autopytoexe-config.json
 ```
 
 credits:
-[text](https://pypi.org/project/auto-py-to-exe/)
+[autoPyToEx]: https://pypi.org/project/auto-py-to-exe/
