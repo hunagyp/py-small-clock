@@ -1,11 +1,15 @@
-# Create python env:
+# Create python env
+
 ```bash
 python -m venv venv
 pip install -r requirements.txt
 ```
 
-# Create executable:
+# Create executable
+
 ```
 auto-py-to-exe -c autopytoexe-config.json
 ```
 
+credits:
+[text](https://pypi.org/project/auto-py-to-exe/)
